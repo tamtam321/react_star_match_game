@@ -1,3 +1,11 @@
+# My Description
+
+I am interested in React and started to do some hobby project.
+
+* Star match game: On left side you can see number of stars and on the right you see numbers 1-9. The task is select the right number which represent the number of star on the left. It is also fine if you choose several numbers which sum also gives the right number of star. There is timer and you can use a number only once. The goal is to use all the number before the time ends."
+
+# _________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
